@@ -5,7 +5,7 @@
 
 - 🔗 Connect with me on LinkedIn to learn more about me! [https://www.linkedin.com/in/mikelbazelli/](https://www.linkedin.com/in/mikelbazelli/)
 
-- 📫 You can reach me at **mikelbazelli@gmail.com**
+- 📫 You can reach me at **mikelbazelli.mb@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
