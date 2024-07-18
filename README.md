@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm Mikel</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 - 👨‍💻 Check out my projects on GitHub [https://github.com/MikelBazelli?tab=repositories](https://github.com/MikelBazelli?tab=repositories)
 
