@@ -3,7 +3,7 @@
 
 - 👨‍💻 Check out my projects on GitHub [https://github.com/MikelBazelli?tab=repositories](https://github.com/MikelBazelli?tab=repositories)
 
-- 🔗 Connect with me on LinkedIn to learn more about my professional journey! [https://www.linkedin.com/in/mikelbazelli/](https://www.linkedin.com/in/mikelbazelli/)
+- 🔗 Connect with me on LinkedIn to learn more about me! [https://www.linkedin.com/in/mikelbazelli/](https://www.linkedin.com/in/mikelbazelli/)
 
 - 📫 You can reach me at **mikelbazelli@gmail.com**
 
